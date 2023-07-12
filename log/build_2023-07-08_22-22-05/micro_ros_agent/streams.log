@@ -1,0 +1,324 @@
+[0.013s] Invoking command in '/home/phyo/microros_ws/build/micro_ros_agent': AMENT_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:/home/phyo/microros_ws/install/micro_ros_setup:/home/phyo/ROS2/workspace/install/tutorial_interfaces:/home/phyo/ROS2/workspace/install/turtlebot3_simulations:/home/phyo/ROS2/workspace/install/turtlebot3_gazebo:/home/phyo/ROS2/workspace/install/turtlebot3_fake_node:/home/phyo/ROS2/workspace/install/test:/home/phyo/ROS2/workspace/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/rom2109_description:/home/phyo/ROS2/workspace/install/my_bot:/home/phyo/ROS2/workspace/install/more_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk_examples:/home/phyo/ROS2/workspace/install/dynamixel_sdk_custom_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk:/home/phyo/ROS2/workspace/install/dynamixel_hardware:/home/phyo/lidar_ws/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble LD_LIBRARY_PATH=/home/phyo/microros_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/phyo/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/phyo/microros_ws/src/uros/micro-ROS-Agent/micro_ros_agent -DUAGENT_BUILD_EXECUTABLE=OFF -DUAGENT_P2P_PROFILE=OFF --no-warn-unused-cli -DCMAKE_INSTALL_PREFIX=/home/phyo/microros_ws/install/micro_ros_agent
+[0.020s] Not searching for unused variables given on the command line.
+[0.073s] -- The C compiler identification is GNU 11.3.0
+[0.081s] -- Detecting C compiler ABI info
+[0.158s] -- Detecting C compiler ABI info - done
+[0.170s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.170s] -- Detecting C compile features
+[0.171s] -- Detecting C compile features - done
+[0.241s] -- The CXX compiler identification is GNU 11.3.0
+[0.248s] -- Detecting CXX compiler ABI info
+[0.325s] -- Detecting CXX compiler ABI info - done
+[0.334s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.334s] -- Detecting CXX compile features
+[0.335s] -- Detecting CXX compile features - done
+[0.377s] -- Configuring done
+[0.380s] -- Generating done
+[0.381s] -- Build files have been written to: /home/phyo/microros_ws/build/micro_ros_agent
+[0.385s] Invoked command in '/home/phyo/microros_ws/build/micro_ros_agent' returned '0': AMENT_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:/home/phyo/microros_ws/install/micro_ros_setup:/home/phyo/ROS2/workspace/install/tutorial_interfaces:/home/phyo/ROS2/workspace/install/turtlebot3_simulations:/home/phyo/ROS2/workspace/install/turtlebot3_gazebo:/home/phyo/ROS2/workspace/install/turtlebot3_fake_node:/home/phyo/ROS2/workspace/install/test:/home/phyo/ROS2/workspace/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/rom2109_description:/home/phyo/ROS2/workspace/install/my_bot:/home/phyo/ROS2/workspace/install/more_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk_examples:/home/phyo/ROS2/workspace/install/dynamixel_sdk_custom_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk:/home/phyo/ROS2/workspace/install/dynamixel_hardware:/home/phyo/lidar_ws/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble LD_LIBRARY_PATH=/home/phyo/microros_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/phyo/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/phyo/microros_ws/src/uros/micro-ROS-Agent/micro_ros_agent -DUAGENT_BUILD_EXECUTABLE=OFF -DUAGENT_P2P_PROFILE=OFF --no-warn-unused-cli -DCMAKE_INSTALL_PREFIX=/home/phyo/microros_ws/install/micro_ros_agent
+[0.386s] Invoking command in '/home/phyo/microros_ws/build/micro_ros_agent': AMENT_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:/home/phyo/microros_ws/install/micro_ros_setup:/home/phyo/ROS2/workspace/install/tutorial_interfaces:/home/phyo/ROS2/workspace/install/turtlebot3_simulations:/home/phyo/ROS2/workspace/install/turtlebot3_gazebo:/home/phyo/ROS2/workspace/install/turtlebot3_fake_node:/home/phyo/ROS2/workspace/install/test:/home/phyo/ROS2/workspace/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/rom2109_description:/home/phyo/ROS2/workspace/install/my_bot:/home/phyo/ROS2/workspace/install/more_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk_examples:/home/phyo/ROS2/workspace/install/dynamixel_sdk_custom_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk:/home/phyo/ROS2/workspace/install/dynamixel_hardware:/home/phyo/lidar_ws/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble LD_LIBRARY_PATH=/home/phyo/microros_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/phyo/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/phyo/microros_ws/build/micro_ros_agent -- -j8 -l8
+[0.430s] [  6%] [34m[1mCreating directories for 'xrceagent'[0m
+[0.503s] [ 12%] [34m[1mPerforming download step (git clone) for 'xrceagent'[0m
+[0.524s] Cloning into 'xrceagent'...
+[5.166s] Switched to a new branch 'ros2'
+[5.166s] Branch 'ros2' set up to track remote branch 'ros2' from 'origin'.
+[5.223s] [ 18%] [34m[1mPerforming update step for 'xrceagent'[0m
+[6.219s] HEAD is now at 9311555 Release v2.4.0
+[6.255s] [ 25%] [34m[1mNo patch step for 'xrceagent'[0m
+[6.279s] [ 31%] [34m[1mPerforming configure step for 'xrceagent'[0m
+[6.288s] loading initial cache file /home/phyo/microros_ws/build/micro_ros_agent/agent/tmp/xrceagent-cache-.cmake
+[6.341s] -- The C compiler identification is GNU 11.3.0
+[6.348s] -- Detecting C compiler ABI info
+[6.418s] -- Detecting C compiler ABI info - done
+[6.425s] -- Check for working C compiler: /usr/bin/cc - skipped
+[6.426s] -- Detecting C compile features
+[6.426s] -- Detecting C compile features - done
+[6.479s] -- The CXX compiler identification is GNU 11.3.0
+[6.485s] -- Detecting CXX compiler ABI info
+[6.562s] -- Detecting CXX compiler ABI info - done
+[6.570s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[6.570s] -- Detecting CXX compile features
+[6.570s] -- Detecting CXX compile features - done
+[6.585s] -- Looking for pthread.h
+[6.661s] -- Looking for pthread.h - found
+[6.661s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[6.737s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[6.737s] -- Found Threads: TRUE  
+[6.757s] -- Configuring done
+[6.759s] -- Generating done
+[6.759s] -- Build files have been written to: /home/phyo/microros_ws/build/micro_ros_agent/agent/src/xrceagent-build
+[6.779s] [ 37%] [34m[1mPerforming build step for 'xrceagent'[0m
+[6.823s] [ 12%] [34m[1mCreating directories for 'uagent'[0m
+[6.913s] [ 25%] [34m[1mNo download step for 'uagent'[0m
+[6.943s] [ 37%] [34m[1mNo update step for 'uagent'[0m
+[6.974s] [ 50%] [34m[1mNo patch step for 'uagent'[0m
+[7.006s] [ 62%] [34m[1mPerforming configure step for 'uagent'[0m
+[7.018s] loading initial cache file /home/phyo/microros_ws/build/micro_ros_agent/agent/src/xrceagent-build/uagent-prefix/tmp/uagent-cache-.cmake
+[7.025s] -- Setting build type to 'Release' as none was specified.
+[7.074s] [33mCMake Warning (dev) at /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+[7.074s]   The package name passed to `find_package_handle_standard_args` (tinyxml2)
+[7.074s]   does not match the name of the calling package (TinyXML2).  This can lead
+[7.074s]   to problems in calling code that expects `find_package` result variables
+[7.074s]   (e.g., `_FOUND`) to follow a certain pattern.
+[7.075s] Call Stack (most recent call first):
+[7.075s]   cmake/modules/FindTinyXML2.cmake:40 (find_package_handle_standard_args)
+[7.075s]   /opt/ros/humble/share/fastrtps/cmake/fastrtps-config.cmake:51 (find_package)
+[7.075s]   CMakeLists.txt:153 (find_package)
+[7.075s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[7.075s] [0m
+[7.075s] -- Found tinyxml2: /usr/lib/x86_64-linux-gnu/libtinyxml2.so  
+[7.134s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.144s] -- Configuring done
+[7.154s] -- Generating done
+[7.155s] -- Build files have been written to: /home/phyo/microros_ws/build/micro_ros_agent/agent/src/xrceagent-build
+[7.172s] [ 75%] [34m[1mPerforming build step for 'uagent'[0m
+[7.219s] [  2%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/Agent.cpp.o[0m
+[7.219s] [  7%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/processor/Processor.cpp.o[0m
+[7.219s] [  9%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/Root.cpp.o[0m
+[7.219s] [ 11%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/client/ProxyClient.cpp.o[0m
+[7.220s] [  4%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/AgentInstance.cpp.o[0m
+[7.220s] [ 14%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/participant/Participant.cpp.o[0m
+[7.220s] [ 16%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/topic/Topic.cpp.o[0m
+[7.221s] [ 19%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/publisher/Publisher.cpp.o[0m
+[9.630s] [ 26%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/datawriter/DataWriter.cpp.o[0m
+[9.633s] [ 26%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/datareader/DataReader.cpp.o[0m
+[9.633s] [ 26%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/subscriber/Subscriber.cpp.o[0m
+[11.778s] [ 28%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/requester/Requester.cpp.o[0m
+[14.161s] [ 30%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/replier/Replier.cpp.o[0m
+[15.839s] [ 33%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/object/XRCEObject.cpp.o[0m
+[15.997s] [ 35%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/types/XRCETypes.cpp.o[0m
+[16.640s] [ 38%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/types/MessageHeader.cpp.o[0m
+[16.800s] [ 40%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/types/SubMessageHeader.cpp.o[0m
+[17.478s] [ 42%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/message/InputMessage.cpp.o[0m
+[17.654s] [ 45%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/message/OutputMessage.cpp.o[0m
+[17.943s] [ 47%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/utils/ArgumentParser.cpp.o[0m
+[18.592s] [ 50%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/Server.cpp.o[0m
+[20.380s] [ 52%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/stream_framing/StreamFramingProtocol.cpp.o[0m
+[20.823s] [ 54%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/custom/CustomAgent.cpp.o[0m
+[20.835s] [ 57%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/udp/UDPv4AgentLinux.cpp.o[0m
+[22.358s] [ 59%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/udp/UDPv6AgentLinux.cpp.o[0m
+[22.949s] [ 61%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/tcp/TCPv4AgentLinux.cpp.o[0m
+[23.190s] [ 64%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/tcp/TCPv6AgentLinux.cpp.o[0m
+[24.611s] [ 66%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/serial/SerialAgentLinux.cpp.o[0m
+[29.009s] [ 69%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/serial/TermiosAgentLinux.cpp.o[0m
+[29.028s] [ 71%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/serial/MultiSerialAgentLinux.cpp.o[0m
+[29.206s] [ 73%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/serial/MultiTermiosAgentLinux.cpp.o[0m
+[30.199s] [ 76%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/serial/PseudoTerminalAgentLinux.cpp.o[0m
+[31.145s] [ 78%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/can/CanAgentLinux.cpp.o[0m
+[32.158s] [ 80%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/discovery/DiscoveryServerLinux.cpp.o[0m
+[33.536s] [ 83%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/transport/discovery/DiscoveryServer.cpp.o[0m
+[33.787s] [ 85%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/types/TopicPubSubType.cpp.o[0m
+[35.273s] [ 88%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/xmlobjects/xmlobjects.cpp.o[0m
+[36.214s] [ 90%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/middleware/fast/FastEntities.cpp.o[0m
+[37.219s] [ 92%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/middleware/fast/FastMiddleware.cpp.o[0m
+[37.385s] [ 95%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/middleware/fastdds/FastDDSEntities.cpp.o[0m
+[37.524s] [ 97%] [32mBuilding CXX object CMakeFiles/microxrcedds_agent.dir/src/cpp/middleware/fastdds/FastDDSMiddleware.cpp.o[0m
+[45.559s] [100%] [32m[1mLinking CXX shared library libmicroxrcedds_agent.so[0m
+[46.015s] [100%] Built target microxrcedds_agent
+[46.331s] [34m[1mNo install step for 'uagent'[0m
+[46.358s] [34m[1mCompleted 'uagent'[0m
+[46.516s] Built target uagent
+[46.830s] [ 43%] [34m[1mPerforming install step for 'xrceagent'[0m
+[46.909s] [35m[1mConsolidate compiler generated dependencies of target microxrcedds_agent[0m
+[46.971s] [100%] Built target microxrcedds_agent
+[46.988s] [36mInstall the project...[0m
+[46.996s] -- Install configuration: "Release"
+[46.996s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/lib/libmicroxrcedds_agent.so.2.4.0
+[47.000s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/lib/libmicroxrcedds_agent.so.2.4
+[47.000s] -- Set runtime path of "/home/phyo/microros_ws/install/micro_ros_agent/lib/libmicroxrcedds_agent.so.2.4.0" to ""
+[47.000s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/lib/libmicroxrcedds_agent.so
+[47.000s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent
+[47.016s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/AgentInstance.hpp
+[47.016s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/subscriber
+[47.016s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/subscriber/Subscriber.hpp
+[47.016s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client
+[47.016s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client/ProxyClient.hpp
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client/session
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client/session/Session.hpp
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client/session/SessionInfo.hpp
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client/session/stream
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client/session/stream/InputStream.hpp
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/client/session/stream/OutputStream.hpp
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils
+[47.017s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/Time.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/ArgumentParser.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/SharedMutex.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/TokenBucket.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/SharedMutexPriority.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/Conversion.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/Color.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/SeqNum.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/utils/Functions.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/topic
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/topic/Topic.hpp
+[47.018s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/replier
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/replier/Replier.hpp
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/processor
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/processor/Processor.hpp
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/SessionManager.hpp
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/discovery
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/discovery/DiscoveryServer.hpp
+[47.019s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/discovery/DiscoveryServerWindows.hpp
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/discovery/DiscoveryServerLinux.hpp
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/custom
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/custom/CustomAgent.hpp
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/stream_framing
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/stream_framing/StreamFramingProtocol.hpp
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/serial
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/serial/MultiTermiosAgentLinux.hpp
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/serial/MultiSerialAgentLinux.hpp
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/serial/TermiosAgentLinux.hpp
+[47.020s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/serial/PseudoTerminalAgentLinux.hpp
+[47.021s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/serial/baud_rate_table_linux.h
+[47.021s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/serial/SerialAgentLinux.hpp
+[47.021s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/util
+[47.021s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/util/InterfaceLinux.hpp
+[47.021s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/util/InterfaceWindows.hpp
+[47.021s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/TransportRc.hpp
+[47.023s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/p2p
+[47.023s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/p2p/AgentDiscovererLinux.hpp
+[47.023s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/p2p/AgentDiscoverer.hpp
+[47.023s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/endpoint
+[47.023s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/endpoint/IPv4EndPoint.hpp
+[47.023s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/endpoint/SerialEndPoint.hpp
+[47.024s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/endpoint/CanEndPoint.hpp
+[47.024s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/endpoint/IPv6EndPoint.hpp
+[47.024s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/endpoint/MultiSerialEndPoint.hpp
+[47.024s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/endpoint/CustomEndPoint.hpp
+[47.024s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/udp
+[47.024s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/udp/UDPv4AgentWindows.hpp
+[47.025s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/udp/UDPv6AgentWindows.hpp
+[47.025s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/udp/UDPv6AgentLinux.hpp
+[47.025s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/udp/UDPv4AgentLinux.hpp
+[47.027s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/can
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/can/CanAgentLinux.hpp
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/tcp
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/tcp/TCPServerBase.hpp
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/tcp/TCPv4AgentLinux.hpp
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/tcp/TCPv4AgentWindows.hpp
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/tcp/TCPv6AgentWindows.hpp
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/tcp/TCPv6AgentLinux.hpp
+[47.032s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/tcp/TCPConnection.hpp
+[47.033s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/transport/Server.hpp
+[47.033s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/message
+[47.033s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/message/InputMessage.hpp
+[47.033s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/message/OutputMessage.hpp
+[47.033s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/message/Packet.hpp
+[47.033s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/participant
+[47.033s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/participant/Participant.hpp
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/object
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/object/XRCEObject.hpp
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/datareader
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/datareader/DataReader.hpp
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/logger
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/logger/Logger.hpp
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/Agent.hpp
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/Root.hpp
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/p2p
+[47.034s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/p2p/InternalClientManager.hpp
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/p2p/InternalClient.hpp
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/utils
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/utils/Callbacks.hpp
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/fast
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/fast/FastEntities.hpp
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/fast/FastMiddleware.hpp
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/Middleware.hpp
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/ced
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/ced/CedMiddleware.hpp
+[47.035s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/ced/CedEntities.hpp
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/fastdds
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/fastdds/FastDDSMiddleware.hpp
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/middleware/fastdds/FastDDSEntities.hpp
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/reader
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/reader/Reader.hpp
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/scheduler
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/scheduler/Scheduler.hpp
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/scheduler/PacketScheduler.hpp
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/requester
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/requester/Requester.hpp
+[47.036s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/visibility.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/publisher
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/publisher/Publisher.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/types
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/types/Optional.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/types/XRCETypes.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/types/TopicPubSubType.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/types/SubMessageHeader.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/types/MessageHeader.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/datawriter
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/datawriter/DataWriter.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/microxrcedds_agent/cmake/microxrcedds_agentTargets.cmake
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/microxrcedds_agent/cmake/microxrcedds_agentTargets-release.cmake
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/include/uxr/agent/config.hpp
+[47.037s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/microxrcedds_agent/LICENSE
+[47.038s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/microxrcedds_agent/cmake/microxrcedds_agentConfig.cmake
+[47.038s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/microxrcedds_agent/cmake/microxrcedds_agentConfigVersion.cmake
+[47.050s] [ 50%] [34m[1mCompleted 'xrceagent'[0m
+[47.211s] [ 50%] Built target xrceagent
+[47.295s] [ 56%] [34m[1mCreating directories for 'micro_ros_agent'[0m
+[47.470s] [ 62%] [34m[1mNo download step for 'micro_ros_agent'[0m
+[47.502s] [ 68%] [34m[1mNo update step for 'micro_ros_agent'[0m
+[47.535s] [ 75%] [34m[1mNo patch step for 'micro_ros_agent'[0m
+[47.563s] [ 81%] [34m[1mPerforming configure step for 'micro_ros_agent'[0m
+[47.573s] loading initial cache file /home/phyo/microros_ws/build/micro_ros_agent/micro_ros_agent-prefix/tmp/micro_ros_agent-cache-.cmake
+[47.603s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[47.856s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[48.108s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[48.123s] -- Looking for C++ include pthread.h
+[48.211s] -- Looking for C++ include pthread.h - found
+[48.212s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[48.338s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[48.339s] -- Found Threads: TRUE  
+[48.354s] -- Found rosidl_cmake: 3.1.4 (/opt/ros/humble/share/rosidl_cmake/cmake)
+[48.371s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[48.431s] -- Found fastrtps_cmake_module: 2.2.0 (/opt/ros/humble/share/fastrtps_cmake_module/cmake)
+[48.438s] -- Found rmw_dds_common: 1.6.0 (/opt/ros/humble/share/rmw_dds_common/cmake)
+[48.497s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[48.513s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[48.534s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[48.558s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[48.588s] -- Found rmw_fastrtps_shared_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_shared_cpp/cmake)
+[48.660s] -- Found FastRTPS: /opt/ros/humble/include  
+[48.664s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[48.671s] -- Found ament_cmake_gtest: 1.3.5 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[48.674s] -- Found micro_ros_msgs: 3.0.0 (/home/phyo/microros_ws/install/micro_ros_msgs/share/micro_ros_msgs/cmake)
+[48.806s] -- Configuring done
+[49.116s] -- Generating done
+[49.190s] -- Build files have been written to: /home/phyo/microros_ws/build/micro_ros_agent
+[49.216s] [ 87%] [34m[1mPerforming build step for 'micro_ros_agent'[0m
+[49.268s] [ 16%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/graph_manager/graph_typesupport.cpp.o[0m
+[49.270s] [ 50%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/Agent.cpp.o[0m
+[49.271s] [ 50%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/main.cpp.o[0m
+[49.271s] [ 66%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/graph_manager/graph_manager.cpp.o[0m
+[49.272s] [ 83%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/utils/demangle.cpp.o[0m
+[53.589s] [100%] [32m[1mLinking CXX executable micro_ros_agent[0m
+[54.045s] [100%] Built target micro_ros_agent
+[54.139s] [34m[1mNo install step for 'micro_ros_agent'[0m
+[54.167s] [34m[1mCompleted 'micro_ros_agent'[0m
+[54.202s] Built target micro_ros_agent
+[54.564s] Invoked command in '/home/phyo/microros_ws/build/micro_ros_agent' returned '0': AMENT_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:/home/phyo/microros_ws/install/micro_ros_setup:/home/phyo/ROS2/workspace/install/tutorial_interfaces:/home/phyo/ROS2/workspace/install/turtlebot3_simulations:/home/phyo/ROS2/workspace/install/turtlebot3_gazebo:/home/phyo/ROS2/workspace/install/turtlebot3_fake_node:/home/phyo/ROS2/workspace/install/test:/home/phyo/ROS2/workspace/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/rom2109_description:/home/phyo/ROS2/workspace/install/my_bot:/home/phyo/ROS2/workspace/install/more_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk_examples:/home/phyo/ROS2/workspace/install/dynamixel_sdk_custom_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk:/home/phyo/ROS2/workspace/install/dynamixel_hardware:/home/phyo/lidar_ws/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble LD_LIBRARY_PATH=/home/phyo/microros_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/phyo/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/phyo/microros_ws/build/micro_ros_agent -- -j8 -l8
+[54.931s] Invoking command in '/home/phyo/microros_ws/build/micro_ros_agent': AMENT_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:/home/phyo/microros_ws/install/micro_ros_setup:/home/phyo/ROS2/workspace/install/tutorial_interfaces:/home/phyo/ROS2/workspace/install/turtlebot3_simulations:/home/phyo/ROS2/workspace/install/turtlebot3_gazebo:/home/phyo/ROS2/workspace/install/turtlebot3_fake_node:/home/phyo/ROS2/workspace/install/test:/home/phyo/ROS2/workspace/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/rom2109_description:/home/phyo/ROS2/workspace/install/my_bot:/home/phyo/ROS2/workspace/install/more_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk_examples:/home/phyo/ROS2/workspace/install/dynamixel_sdk_custom_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk:/home/phyo/ROS2/workspace/install/dynamixel_hardware:/home/phyo/lidar_ws/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble LD_LIBRARY_PATH=/home/phyo/microros_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/phyo/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/phyo/microros_ws/build/micro_ros_agent
+[54.963s] -- Install configuration: ""
+[54.964s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/ament_index/resource_index/package_run_dependencies/micro_ros_agent
+[54.965s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/ament_index/resource_index/parent_prefix_path/micro_ros_agent
+[54.966s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.sh
+[54.967s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.dsv
+[54.968s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/environment/path.sh
+[54.968s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/environment/path.dsv
+[54.969s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.bash
+[54.969s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.sh
+[54.970s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.zsh
+[54.970s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.dsv
+[54.970s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/package.dsv
+[54.971s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/ament_index/resource_index/packages/micro_ros_agent
+[54.971s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/ament_cmake_export_dependencies-extras.cmake
+[54.972s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig.cmake
+[54.972s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig-version.cmake
+[54.972s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/package.xml
+[54.972s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/lib/micro_ros_agent/micro_ros_agent
+[54.976s] -- Set runtime path of "/home/phyo/microros_ws/install/micro_ros_agent/lib/micro_ros_agent/micro_ros_agent" to ""
+[54.976s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/launch
+[54.976s] -- Installing: /home/phyo/microros_ws/install/micro_ros_agent/share/micro_ros_agent/launch/micro_ros_agent_launch.py
+[54.989s] Invoked command in '/home/phyo/microros_ws/build/micro_ros_agent' returned '0': AMENT_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/phyo/microros_ws/install/micro_ros_msgs:/home/phyo/microros_ws/install/micro_ros_setup:/home/phyo/ROS2/workspace/install/tutorial_interfaces:/home/phyo/ROS2/workspace/install/turtlebot3_simulations:/home/phyo/ROS2/workspace/install/turtlebot3_gazebo:/home/phyo/ROS2/workspace/install/turtlebot3_fake_node:/home/phyo/ROS2/workspace/install/test:/home/phyo/ROS2/workspace/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/rom2109_description:/home/phyo/ROS2/workspace/install/my_bot:/home/phyo/ROS2/workspace/install/more_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk_examples:/home/phyo/ROS2/workspace/install/dynamixel_sdk_custom_interfaces:/home/phyo/ROS2/workspace/install/dynamixel_sdk:/home/phyo/ROS2/workspace/install/dynamixel_hardware:/home/phyo/lidar_ws/install/sllidar_ros2:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble LD_LIBRARY_PATH=/home/phyo/microros_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/phyo/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/phyo/microros_ws/build/micro_ros_agent

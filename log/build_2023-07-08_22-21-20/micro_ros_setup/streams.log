@@ -1,0 +1,210 @@
+[0.021s] Invoking command in '/home/phyo/microros_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble /usr/bin/cmake /home/phyo/microros_ws/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/phyo/microros_ws/install/micro_ros_setup
+[0.539s] -- The C compiler identification is GNU 11.3.0
+[0.878s] -- The CXX compiler identification is GNU 11.3.0
+[0.893s] -- Detecting C compiler ABI info
+[1.110s] -- Detecting C compiler ABI info - done
+[1.122s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.125s] -- Detecting C compile features
+[1.130s] -- Detecting C compile features - done
+[1.145s] -- Detecting CXX compiler ABI info
+[1.283s] -- Detecting CXX compiler ABI info - done
+[1.292s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.292s] -- Detecting CXX compile features
+[1.293s] -- Detecting CXX compile features - done
+[1.312s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.530s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.685s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.798s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.822s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.832s] -- Added test 'lint_cmake' to check CMake code style
+[1.837s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.854s] -- Added test 'xmllint' to check XML markup files
+[1.858s] -- Configuring done
+[1.861s] -- Generating done
+[1.862s] -- Build files have been written to: /home/phyo/microros_ws/build/micro_ros_setup
+[1.866s] Invoked command in '/home/phyo/microros_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble /usr/bin/cmake /home/phyo/microros_ws/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/phyo/microros_ws/install/micro_ros_setup
+[1.868s] Invoking command in '/home/phyo/microros_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/phyo/microros_ws/build/micro_ros_setup -- -j8 -l8
+[1.903s] Invoked command in '/home/phyo/microros_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/phyo/microros_ws/build/micro_ros_setup -- -j8 -l8
+[1.936s] Invoking command in '/home/phyo/microros_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/phyo/microros_ws/build/micro_ros_setup
+[1.943s] -- Install configuration: ""
+[1.943s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/ament_index/resource_index/package_run_dependencies/micro_ros_setup
+[1.944s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/ament_index/resource_index/parent_prefix_path/micro_ros_setup
+[1.944s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/environment/ament_prefix_path.sh
+[1.944s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/environment/ament_prefix_path.dsv
+[1.944s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/environment/path.sh
+[1.944s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/environment/path.dsv
+[1.944s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.bash
+[1.944s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.sh
+[1.945s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.zsh
+[1.945s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.dsv
+[1.945s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/package.dsv
+[1.945s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/ament_index/resource_index/packages/micro_ros_setup
+[1.945s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/cmake/micro_ros_setupConfig.cmake
+[1.945s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/cmake/micro_ros_setupConfig-version.cmake
+[1.945s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/share/micro_ros_setup/package.xml
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic/build.sh
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic/create.sh
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic/demo_toolchain.cmake
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic/client-colcon.meta
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic/flash.sh
+[1.946s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic/client_uros_packages.repos
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/generic/package.xml
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/dev_ros2_packages.txt
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/generate_lib/dev_uros_packages.repos
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/agent_ros2_packages.txt
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/build.sh
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/create.sh
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/client-colcon.meta
+[1.947s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/flash.sh
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/configure.sh
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/client_uros_packages.repos
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/board.repos
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/dev_ros2_packages.txt
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/dev_uros_packages.repos
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/renesas_ra/list_apps.sh
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic
+[1.948s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic/supported_platforms
+[1.949s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic/build.sh
+[1.949s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic/create.sh
+[1.949s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic/client-colcon.meta
+[1.949s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic/flash.sh
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic/configure.sh
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/generic/client_uros_packages.repos
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/dev_ros2_packages.txt
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/raspbian/dev_uros_packages.repos
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/client_ros2_packages.txt
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/client_ros2_packages.txt
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/generic
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/generic/build.sh
+[1.950s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/generic/create.sh
+[1.951s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/generic/client-host-colcon.meta
+[1.951s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/generic/flash.sh
+[1.951s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/generic/package.xml
+[1.951s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/generic/client_host_packages.repos
+[1.951s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/dev_ros2_packages.txt
+[1.951s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/host/dev_uros_packages.repos
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/utils.sh
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/agent_uros_packages.repos
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/client_uros_packages.repos
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/supported_platforms
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/build.sh
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/create.sh
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/client-colcon.meta
+[1.952s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/flash.sh
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/configure.sh
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/client_uros_packages.repos
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/package.xml
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/generic/board.repos
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/dev_ros2_packages.txt
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/dev_uros_packages.repos
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/zephyr/list_apps.sh
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32
+[1.953s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/build.sh
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/create.sh
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/client-colcon.meta
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/flash.sh
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/configure.sh
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/client_uros_packages.repos
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/package.xml
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/board.repos
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/esp32/README.md
+[1.954s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/build.sh
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/create.sh
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/client-colcon.meta
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/flash.sh
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/configure.sh
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/client_uros_packages.repos
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/package.xml
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/board.repos
+[1.955s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/build.sh
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/create.sh
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/client-colcon.meta
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/flash.sh
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/configure.sh
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/client_uros_packages.repos
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/package.xml
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/board.repos
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze
+[1.956s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/build.sh
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/create.sh
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/client-colcon.meta
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/flash.sh
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/configure.sh
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/client_uros_packages.repos
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/package.xml
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/board.repos
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/build.sh
+[1.957s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/create.sh
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/client-colcon.meta
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/flash.sh
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/configure.sh
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/client_uros_packages.repos
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/package.xml
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/board.repos
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/dev_ros2_packages.txt
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/dev_uros_packages.repos
+[1.958s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/build.sh
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/create.sh
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/client-colcon.meta
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/flash.sh
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/configure.sh
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/client_uros_packages.repos
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/package.xml
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/crazyflie21/board.repos
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/list_apps.sh
+[1.959s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/build.sh
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/create.sh
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/client-colcon.meta
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/flash.sh
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/configure.sh
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/client_uros_packages.repos
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/package.xml
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/board.repos
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android
+[1.960s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/generic
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/generic/build.sh
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/generic/create.sh
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/generic/client-colcon.meta
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/generic/flash.sh
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/generic/client_uros_packages.repos
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/generic/package.xml
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/dev_ros2_packages.txt
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/android/dev_uros_packages.repos
+[1.961s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic/supported_platforms
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic/build.sh
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic/create.sh
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic/flash.sh
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic/client_uros_packages.repos
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic/package.xml
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/generic/board.repos
+[1.962s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/dev_ros2_packages.txt
+[1.963s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/dev_uros_packages.repos
+[1.963s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/./config/mbed/list_apps.sh
+[1.963s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/create_ws.sh
+[1.963s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/create_agent_ws.sh
+[1.963s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/create_firmware_ws.sh
+[1.963s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/configure_firmware.sh
+[1.963s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/flash_firmware.sh
+[1.964s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/build_firmware.sh
+[1.964s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/build_agent.sh
+[1.964s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/yaml_filter.py
+[1.964s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/clean_env.sh
+[1.964s] -- Installing: /home/phyo/microros_ws/install/micro_ros_setup/lib/micro_ros_setup/component
+[1.966s] Invoked command in '/home/phyo/microros_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/phyo/ROS2/workspace/install/urdf_example:/home/phyo/ROS2/workspace/install/py_srvcli:/home/phyo/ROS2/workspace/install/py_pubsub:/home/phyo/ROS2/workspace/install/turtlebot3_dqn:/home/phyo/ROS2/workspace/install/python_parameters:/home/phyo/ROS2/workspace/install/py_launch_example:/home/phyo/ROS2/workspace/install/learning_tf2_py:/home/phyo/ROS2/workspace/install/launch_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/phyo/microros_ws/build/micro_ros_setup
